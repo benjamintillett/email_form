@@ -1,0 +1,2 @@
+module StaitcPagesHelper
+end
