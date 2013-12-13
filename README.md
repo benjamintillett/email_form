@@ -1,0 +1,1 @@
+Sample app practice building a rails email form
